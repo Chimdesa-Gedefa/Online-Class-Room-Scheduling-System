@@ -1,0 +1,4 @@
+else
+{
+echo"<script> alert(' Fname is not found in the db!');history.back();</script>";
+}
